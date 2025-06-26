@@ -19,6 +19,7 @@ Funcionalidades:
 Como Usar:
 
 1.a - Baixe ou clone o projeto. (opcional)
+
 1.b - Baixe o arquivo PassDuck_vX.X.rar na página de Releases e extraia-o.
 
 2 - Execute o programa arquivo .exe ou .py.
