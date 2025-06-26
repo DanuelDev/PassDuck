@@ -18,11 +18,12 @@ Funcionalidades:
 
 Como Usar:
 
-1 - Baixe ou clone o projeto.
+1.a - Baixe ou clone o projeto. (opcional)
+1.b - Baixe o arquivo PassDuck_vX.X.rar na página de Releases e extraia-o.
 
-2 - Execute o programa (arquivo .py).
+2 - Execute o programa arquivo .exe ou .py.
 
-3 - Escolha o tamanho da senha desejada.
+3 - Escolha as configurações da senha desejada (tamanho, números e símbolos).
 
 4 - Clique em gerar e pronto! Sua senha forte será exibida.
 
