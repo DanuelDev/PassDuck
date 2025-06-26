@@ -23,11 +23,9 @@ Como Usar:
 Tecnologias:
 
 Linguagem
-
   - Python
 
 Bibliotecas
-
   - tkinter
   - random
   - pygame
